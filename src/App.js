@@ -7,6 +7,7 @@ import Kurslar from './components/Kurslar';
 import BoshSahifa from './components/BoshSahifa';
 import BizHaqimizda from './components/BizHaqimizda';
 import Oqituvchilar from './components/Oqituvchilar';
+import Footer from './components/Footer';
 
 function App() {
   return (
@@ -15,8 +16,8 @@ function App() {
       <BoshSahifa />
       <BizHaqimizda />
       <Kurslar />
-      <Oqituvchilar/>
-
+      <Oqituvchilar />
+      <Footer />
 
     </>
   );
